@@ -1,0 +1,7 @@
+defaults:
+  - dataset: cifar10
+  - model: resnet
+
+training:
+  epochs: 10
+  seed: 42

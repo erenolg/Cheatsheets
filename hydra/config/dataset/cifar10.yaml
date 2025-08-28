@@ -1,0 +1,5 @@
+name: CIFAR10
+path: /data/cifar10
+num_classes: 10
+img_size: 32
+batch_size: 64

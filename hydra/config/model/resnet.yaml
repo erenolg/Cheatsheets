@@ -1,0 +1,5 @@
+name: ResNet50
+layers: 50
+pretrained: true
+lr: 0.001
+weight_decay: 1e-4
